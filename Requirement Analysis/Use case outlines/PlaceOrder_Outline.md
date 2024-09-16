@@ -5,8 +5,7 @@
 cart 
 3. AIMS software displays the form of delivery information 
 with order information 
-4. Customer enters and submits delivery information (Table 
-2) 
+4. Customer enters and submits delivery information (Table 2) 
 5. AIMS software calculates and updates order information 
 with shipping fees (Table 3) 
 6. Customer asks to pay order 
