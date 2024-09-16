@@ -1,14 +1,14 @@
 # Use case "Place Order"
 ## Basic flow of the event
-Step 1. Customer requests to place order in the cart
-Step 2. AIMS software checks the availability of products in the cart 
-Step 3. AIMS software displays the form of delivery information with order information 
-Step 4. Customer enters and submits delivery information (Table 2) 
-Step 5. AIMS software calculates and updates order information with shipping fees (Table 3) 
-Step 6. Customer asks to pay order 
-Step 7. AIMS software calls UC “Pay order” 
-Step 8. AIMS software display general information of the order (Table 4) 
-Step 9. AIMS software send invoice and payment transaction information to the customer’s email
+1. Customer requests to place order in the cart
+2. AIMS software checks the availability of products in the cart 
+3. AIMS software displays the form of delivery information with order information 
+4. Customer enters and submits delivery information (Table 2) 
+5. AIMS software calculates and updates order information with shipping fees (Table 3) 
+6. Customer asks to pay order 
+7. AIMS software calls UC “Pay order” 
+8. AIMS software display general information of the order (Table 4) 
+9. AIMS software send invoice and payment transaction information to the customer’s email
 
 ## Alternative flows of the event
 | No | Location | Condition | Action | Resume location |
